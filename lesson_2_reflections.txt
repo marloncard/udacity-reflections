@@ -1,0 +1,8 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+    The folder is now tracked by git and changes can be committed and reversed
+    if necessary.
+
+2. How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+    The staging area allows you to queue up the files to be included in a
+    commit. It allows you to separate commits logically as needed.
