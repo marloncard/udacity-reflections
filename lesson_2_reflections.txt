@@ -6,3 +6,12 @@
 repository? What value do you think it offers?
     The staging area allows you to queue up the files to be included in a
     commit. It allows you to separate commits logically as needed.
+
+3. How can you use the staging area to make sure you have one commit per logical
+ change?
+    I can limit the files being committed to logical groups.
+
+4. What are some situations when branches would be helpful in keeping your
+history organized?
+    If I needed to work on a new feature or bug fix I could create a branch
+    to accomplish this in both situations.
