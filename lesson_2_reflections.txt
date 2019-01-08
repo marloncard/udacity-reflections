@@ -15,3 +15,7 @@ repository? What value do you think it offers?
 history organized?
     If I needed to work on a new feature or bug fix I could create a branch
     to accomplish this in both situations.
+
+5. How do the diagrams help you visualize the branch structure?
+    The diagrams provide a visual aid to help understand relationships of
+    different branches and their corresponding commits.
