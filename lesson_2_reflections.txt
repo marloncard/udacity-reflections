@@ -23,5 +23,10 @@ history organized?
 6. What is the result of merging two branches together? Why do we represent it
 in the diagram the way we do?
     The result is one branch containing the commit history of both the original
-    branches. The diagram shows it was two branches "merging" to become one, 
+    branches. The diagram shows it was two branches "merging" to become one,
     which is accurate.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges
+ manually?
+    You save a lot of time and remove human error by allowing it to perform
+    merges (assuming there are no conflicts).
